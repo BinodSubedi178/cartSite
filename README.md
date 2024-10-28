@@ -1,4 +1,4 @@
-This is a small project that is not functional but is essential to demonstrate the learning to the practical world.
+This is a small project that is not functional but is essential to demonstrate the learning onto the practical world.
 
 These are the learning outcomes that have been implemented to make this website:
 
